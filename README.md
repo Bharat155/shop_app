@@ -4,13 +4,30 @@ UI Shop App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+So, what I have created is a Shopping App UI using Dart Language as a Flutter Project
 
-A few resources to get you started if this is your first Flutter project:
+So, here are some of the screenshots of my App UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# WELCOME SCREEN
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="tutorial/Home_Screen.jpg" width=250 alignment = center> 
+
+# USER LOGIN AND REGISTER SCREENS
+
+<img src="tutorial/Login_Screen.jpg" width=250> <img src="tutorial/Register_Page.jpg" width=250> 
+
+# HOME PAGE & DRAWER SCREEN
+
+<img src="tutorial/Main_Home_Page.png" width=250> <img src="tutorial/Drawer_Screen.jpg" width=250> 
+
+# DETAIL PAGE OF A PRODUCT
+
+<img src="tutorial/Details_Page.jpg" width=250>
+
+# CART PAGE 
+
+<img src="tutorial/Cart_Page.png" width=250>
+
+# UPI PAYMENT GATEWAY 
+
+<img src="tutorial/Payment_Gateway.jpg" width=250>
